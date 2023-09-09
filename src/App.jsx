@@ -9,7 +9,7 @@ function App() {
 				<p className="text-base md:text-lg lg:text-2xl mb-8">EduConnect Pro, we're dedicated to empowering minds and connecting worlds through a revolutionary Learning Management System</p>
 
 				<div className="text-lg md:text-2xl lg:text-3xl py-2 px-4 md:py-4 md:px-10 lg:py-6 lg:px-12 bg-white bg-opacity-10 w-fit mx-auto mb-8 rounded-full">
-					32 People Joined Waitlist
+					368 People Joined Waitlist
 				</div>
 
 				<form 
